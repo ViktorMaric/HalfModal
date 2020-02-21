@@ -100,6 +100,6 @@ Show the most frequently used buttons at the top.
 
 ![HalfModal](./Resources/halfModalUX1.png "HalfModal")
 
-Show the less frequently used buttons at the top.
+Avoid using filled shapes.
 
 ![HalfModal](./Resources/halfModalUX2.png "HalfModal")

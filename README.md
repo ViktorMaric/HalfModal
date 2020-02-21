@@ -97,7 +97,7 @@ Best practice:
 * Use HalfModalContent() to show iOS 13 like buttons which are familiar to the iOS users.
 
 Show the most frequently used buttons at the top.
-![HalfModal](./Resources/halfModalUX1.pdf "HalfModal")
+![HalfModal](./Resources/halfModalUX1.png "HalfModal")
 
 Show the less frequently used buttons at the top.
-![HalfModal](./Resources/halfModalUX2.pdf "HalfModal")
+![HalfModal](./Resources/halfModalUX2.png "HalfModal")
